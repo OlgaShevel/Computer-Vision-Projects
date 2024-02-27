@@ -1,11 +1,14 @@
 # Computer-Vision-Projects
-Решения в области задач Computer Vision
+<b>Решения в области задач Computer Vision</b>
 
-1. Как выбрать оптимальные предобученные модели из KerasCV для классификации неразмеченных изображений
+1. (!Classification_clustering_pre_trained.ipynb)
+  
+   Как выбрать оптимальные предобученные модели из KerasCV для классификации неразмеченных изображений
 
    (Selection of optimal pre-trained models from the KerasCV for classification of untagged images)
 
-2. (ПРОДОЛЖЕНИЕ) Состязательные атаки на модели InceptionV3 и MobileNetV2 как экстракторы признаков неразмеченного  датасета изображений
+2. (!Adversarial_attacks!.ipynb)
+  
+   Состязательные атаки на модели InceptionV3 и MobileNetV2 как экстракторы признаков неразмеченного  датасета изображений
 
-   (Adversarial attacks on the InceptionV3 and MobileNetV2 models as feature extractors for unlabeled 
-image datasets)
+   (Adversarial attacks on the InceptionV3 and MobileNetV2 models as feature extractors for unlabeled image datasets)
