@@ -15,3 +15,8 @@
  
    Как сломать предобученную модель InceptionV3? Предложить классифицировать контуры от OpenCV
    (How to break the pretrained model InceptionV3? Suggest classifying contours from OpenCV)
+
+4. (!DICOM_to_gif_ipynb)
+
+   Алгоритм конвертации медицинских снимков DICOM в .png и .gif с использованием предобученной нейросетки rembg
+   (Algorithm for converting medical DICOM images to .png and .gif using the pre-trained neural network rembg)
