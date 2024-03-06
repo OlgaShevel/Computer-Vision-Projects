@@ -20,3 +20,5 @@
 
    Алгоритм конвертации медицинских снимков DICOM в .png и .gif с использованием предобученной нейросетки rembg
    (Algorithm for converting medical DICOM images to .png and .gif using the pre-trained neural network rembg)
+
+   см. файл Cherep_Transp.gif 
