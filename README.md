@@ -22,3 +22,7 @@
 5. <i>(!Comparison of pre-trained models.ipynb)</i>
   
    Сравнение по точности предсказания трех разных предобученных моделей в различных фреймворках <br> (Comparison of the prediction accuracy of three different pre-trained models in various frameworks)  
+
+6. <i>(!binary_masks_interactiv.ipynb)</i>
+
+   Создание бинарных масок на Python в интерактивной среде ipympl <br> (Creating Binary Masks in Python in the Interactive Environment of ipympl)
