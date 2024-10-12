@@ -25,4 +25,6 @@
 
 6. <i>(!binary_masks_interactiv.ipynb)</i>
 
-   Создание бинарных масок на Python в интерактивной среде ipympl <br> (Creating Binary Masks in Python in the Interactive Environment of ipympl)
+   Создание бинарных масок на Python в интерактивной среде ipympl
+   <br>
+   (Creating Binary Masks in Python in the Interactive Environment of ipympl)
