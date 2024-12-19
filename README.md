@@ -31,7 +31,14 @@
 
 7. <i>(!AlgoritmColor.ipynb)</i>
 
-    Алгоритм цветового кодирования скалярных величин (цвета, яркости пикселей изображения) значениями дивергентной шкалы coolwarm в рамках      цветовой модели RGB
+    Алгоритм цветового кодирования скалярных величин (цвета, яркости пикселей изображения) значениями дивергентной шкалы coolwarm в рамках цветовой модели RGB
    <br>
-   (The algorithm for color coding scalar quantities (colors, brightness of image pixels) using the values of the divergent scale coolwarm       within the RGB color model.)
+   (The algorithm for color coding scalar quantities (colors, brightness of image pixels) using the values of the divergent scale coolwarm within the RGB color model.)
    
+<i>(!AlgoritmColor.ipynb)</i><br>
+<p style="text-indent: 20px;">
+    Алгоритм цветового кодирования скалярных величин (цвета, яркости пикселей изображения) значениями дивергентной шкалы coolwarm в рамках цветовой модели RGB
+</p>
+<p style="text-indent: 20px;">
+    (The algorithm for color coding scalar quantities (colors, brightness of image pixels) using the values of the divergent scale coolwarm within the RGB color model.)
+</p>
