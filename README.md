@@ -28,3 +28,10 @@
    Создание бинарных масок на Python в интерактивной среде ipympl
    <br>
    (Creating Binary Masks in Python in the Interactive Environment of ipympl)
+
+7. <i>(!AlgoritmColor.ipynb)</i>
+
+    Алгоритм цветового кодирования скалярных величин (цвета, яркости пикселей изображения) значениями дивергентной шкалы coolwarm в рамках      цветовой модели RGB
+   <br>
+   (The algorithm for color coding scalar quantities (colors, brightness of image pixels) using the values of the divergent scale coolwarm       within the RGB color model.)
+   
