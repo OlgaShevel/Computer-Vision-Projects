@@ -55,8 +55,8 @@
 
 8. <i>(!semseg_DeepLab2+ResNet101.ipynb)</i><br>
 <p style="text-indent: 20px;">
-   Эксперимент в рамках семантической сегментации с применением нейросетей DeepLab2 и ResNet101: можно ли получить попиксельную точность?
+   Эксперимент в рамках семантической сегментации с применением нейросетей DeepLab2 и ResNet101: можно ли получить попиксельную точность в маске предсказания?
 </p>
 <p style="text-indent: 20px;">
-(An experiment in semantic segmentation using neural networks DeepLab2 and ResNet101: is it possible to achieve pixel-wise accuracy?)
+(An experiment in semantic segmentation using neural networks DeepLab2 and ResNet101: is it possible to achieve pixel-wise accuracy in the prediction mask?)
 </p>
