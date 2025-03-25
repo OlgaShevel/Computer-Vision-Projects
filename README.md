@@ -60,3 +60,12 @@
 <p style="text-indent: 20px;">
 (An experiment in semantic segmentation using neural networks DeepLab2 and ResNet101: is it possible to achieve pixel-wise accuracy in the prediction mask?)
 </p>
+
+
+9. <i>(!DICOM_reconstr_3D.ipynb)</i><br>
+<p style="text-indent: 20px;">
+   1) Реконструкция анатомических проекций из Axial plane файлов DICOM dicom; 2) 3D-реконструкция из Axial plane. 
+</p>
+<p style="text-indent: 20px;">
+(Reconstruction of anatomical projections from DICOM Axial plane files; 3D reconstruction from Axial plane)
+</p>
