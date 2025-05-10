@@ -71,10 +71,10 @@
 </p>
 
 
-10. <i>(!DICOM_reconstr_3D.ipynb)</i><br>
+10. <i>(!GradCAM_Archiv_Nerworks.ipynb)</i><br>
 <p style="text-indent: 20px;">
-   1) Реконструкция анатомических проекций из Axial plane файлов DICOM dicom; 2) 3D-реконструкция из Axial plane. 
+   GradCam на сверточныхслоях архивных нейросеток AlexNet, NiN, ZipNet. 
 </p>
 <p style="text-indent: 20px;">
-(Reconstruction of anatomical projections from DICOM Axial plane files; 3D reconstruction from Axial plane)
+(Grad-CAM on convolutional layers of legacy neural network architectures: AlexNet, NiN, ZipNet.)
 </p>
