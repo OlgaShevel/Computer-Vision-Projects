@@ -8,7 +8,7 @@
 <p style="text-indent: 20px;">  
   (Selection of optimal pre-trained models from the KerasCV for classification of untagged images)
 
-2. <i>(!Adversarial_attacks!.ipynb)</i><br>
+2. <i>(!Adversarial_attacks!.ipynb)</i><br>https://github.com/OlgaShevel/Computer-Vision-Projects/blob/main/README.md
 <p style="text-indent: 20px;">  
    Состязательные атаки на модели InceptionV3 и MobileNetV2 как экстракторы признаков неразмеченного  датасета изображений <br>
 </p>
@@ -63,6 +63,15 @@
 
 
 9. <i>(!DICOM_reconstr_3D.ipynb)</i><br>
+<p style="text-indent: 20px;">
+   1) Реконструкция анатомических проекций из Axial plane файлов DICOM dicom; 2) 3D-реконструкция из Axial plane. 
+</p>
+<p style="text-indent: 20px;">
+(Reconstruction of anatomical projections from DICOM Axial plane files; 3D reconstruction from Axial plane)
+</p>
+
+
+10. <i>(!DICOM_reconstr_3D.ipynb)</i><br>
 <p style="text-indent: 20px;">
    1) Реконструкция анатомических проекций из Axial plane файлов DICOM dicom; 2) 3D-реконструкция из Axial plane. 
 </p>
