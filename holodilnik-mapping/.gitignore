@@ -1,0 +1,6 @@
+test-task/
+solution/*.npz
+solution/metrics.json
+__pycache__/
+*.pyc
+venv/
