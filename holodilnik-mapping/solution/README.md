@@ -6,3 +6,22 @@
 3. `python predict.py` (проверит интерфейс predict(x, y, source))
 ## Артефакты
 `top_ref.npz`, `bottom_ref.npz` генерируются автоматически при запуске train.py.
+
+
+============================
+
+## Пример расчета евклидова расстояния (L2) для всех точек пары top-door2 сюжета на val
+
+![4](https://github.com/user-attachments/assets/037f788f-d750-48d5-8218-143fc818f224)
+
+
+## Визуализация 
+
+1) Для одной точки
+
+![2](https://github.com/user-attachments/assets/2a598dde-f403-4f8f-8b80-7168e1690ad0)
+
+
+2) Для всех точек пары
+
+![3](https://github.com/user-attachments/assets/71480c8e-c0f9-454a-8dae-91ac97579a06)
