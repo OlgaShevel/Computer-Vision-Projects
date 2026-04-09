@@ -23,5 +23,6 @@
 
 
 2) Для всех точек пары
+(На фото door2 пурпурные точки - L2 < 100, точки циан - L2 > 100)  
 
 ![3](https://github.com/user-attachments/assets/71480c8e-c0f9-454a-8dae-91ac97579a06)
