@@ -22,5 +22,5 @@
 
 ## Структура проекта
 
-- `Annotation_Cuboids_without_CVAT.ipynb` — основной ноутбук с кодом
-- `assets/` — скриншот 
+- `annotation_cuboids` — код в файле .py - вставить в ноутбук Google Colaboratory 
+- `assets/` — скриншот результата работы с кодом 
