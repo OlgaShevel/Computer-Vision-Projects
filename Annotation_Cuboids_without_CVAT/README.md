@@ -15,14 +15,12 @@
 - При построении верхних над базой плоскостей происходит авторасчет высоты и смещения 
 - Результаты записываются в формате GeoJSON и JSON и автоматически сохраняются на комп
 
-## Пример работы
+## Пример разметки
 
-
-
-![Пример разметки](assets/result_example.png)
+![screenshot_Parking_Cuboids](https://github.com/user-attachments/assets/56f187cb-c943-4804-822e-d1019d3c5921)
 
 
 ## Структура проекта
 
-- `Annotation_Cuboids_without_CVAT.ipynb` — основной ноутбук с кодом
-- `assets/` — скриншот 
+- `annotation_cuboids` — код в файле .py - вставить в ноутбук Google Colaboratory 
+- `assets/` — скриншот результата работы с кодом 
