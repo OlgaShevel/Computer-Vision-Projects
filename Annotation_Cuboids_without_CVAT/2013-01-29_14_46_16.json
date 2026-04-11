@@ -1,244 +1,16 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1,
-        "type": "cuboid",
-        "base_points": 4,
-        "top_points": 4,
-        "height_pixels": 26
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              442,
-              360
-            ],
-            [
-              486,
-              363
-            ],
-            [
-              514,
-              329
-            ],
-            [
-              473,
-              325
-            ],
-            [
-              442,
-              360
-            ]
-          ]
-        ]
-      },
-      "cuboid_3d": {
-        "base": [
-          [
-            442,
-            360
-          ],
-          [
-            486,
-            363
-          ],
-          [
-            514,
-            329
-          ],
-          [
-            473,
-            325
-          ]
-        ],
-        "top": [
-          [
-            439,
-            334
-          ],
-          [
-            483,
-            337
-          ],
-          [
-            511,
-            303
-          ],
-          [
-            470,
-            299
-          ]
-        ],
-        "all_8_points": [
-          [
-            442,
-            360
-          ],
-          [
-            486,
-            363
-          ],
-          [
-            514,
-            329
-          ],
-          [
-            473,
-            325
-          ],
-          [
-            439,
-            334
-          ],
-          [
-            483,
-            337
-          ],
-          [
-            511,
-            303
-          ],
-          [
-            470,
-            299
-          ]
-        ],
-        "offset_vector": [
-          -3,
-          -26
-        ]
-      }
     },
     {
-      "type": "Feature",
-      "properties": {
-        "id": 2,
-        "type": "cuboid",
-        "base_points": 4,
-        "top_points": 4,
-        "height_pixels": 23
+      type Feature,
+      properties {
+        id 3,
+        type cuboid,
+        base_points 4,
+        top_points 4,
+        height_pixels 29
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              542,
-              251
-            ],
-            [
-              577,
-              254
-            ],
-            [
-              597,
-              227
-            ],
-            [
-              567,
-              224
-            ],
-            [
-              542,
-              251
-            ]
-          ]
-        ]
-      },
-      "cuboid_3d": {
-        "base": [
-          [
-            542,
-            251
-          ],
-          [
-            577,
-            254
-          ],
-          [
-            597,
-            227
-          ],
-          [
-            567,
-            224
-          ]
-        ],
-        "top": [
-          [
-            541,
-            228
-          ],
-          [
-            576,
-            231
-          ],
-          [
-            596,
-            204
-          ],
-          [
-            566,
-            201
-          ]
-        ],
-        "all_8_points": [
-          [
-            542,
-            251
-          ],
-          [
-            577,
-            254
-          ],
-          [
-            597,
-            227
-          ],
-          [
-            567,
-            224
-          ],
-          [
-            541,
-            228
-          ],
-          [
-            576,
-            231
-          ],
-          [
-            596,
-            204
-          ],
-          [
-            566,
-            201
-          ]
-        ],
-        "offset_vector": [
-          -1,
-          -23
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 3,
-        "type": "cuboid",
-        "base_points": 4,
-        "top_points": 4,
-        "height_pixels": 29
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
+      geometry {
+        type Polygon,
+        coordinates [
           [
             [
               626,
@@ -263,8 +35,8 @@
           ]
         ]
       },
-      "cuboid_3d": {
-        "base": [
+      cuboid_3d {
+        base [
           [
             626,
             380
@@ -282,7 +54,7 @@
             364
           ]
         ],
-        "top": [
+        top [
           [
             628,
             351
@@ -300,7 +72,7 @@
             335
           ]
         ],
-        "all_8_points": [
+        all_8_points [
           [
             626,
             380
@@ -334,7 +106,7 @@
             335
           ]
         ],
-        "offset_vector": [
+        offset_vector [
           2,
           -29
         ]
