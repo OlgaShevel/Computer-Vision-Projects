@@ -22,5 +22,6 @@
 
 ## Структура проекта
 
-- `annotation_cuboids` — код в файле .py - вставить в ноутбук Google Colaboratory 
+- `annotation_cuboids` — код в файле .py - вставить в ноутбук Google Colaboratory
+- `2013-01-29_14_46_16.json` - файл в формате json 
 - `assets/` — скриншот результата работы с кодом 
