@@ -17,7 +17,7 @@
 
 ## Пример работы
 
-
+![screenshot_Parking_Cuboids](https://github.com/user-attachments/assets/56f187cb-c943-4804-822e-d1019d3c5921)
 
 ![Пример разметки](assets/result_example.png)
 
