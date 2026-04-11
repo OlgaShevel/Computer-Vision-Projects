@@ -29,10 +29,6 @@ The example below demonstrates cuboid annotation (pseudo-3D). For reference, ann
 
 
 ## Project structure
-- `annotation_cuboids` — код в файле .py - вставить в ноутбук Google Colaboratory
-- `2013-01-29_14_46_16.json` - файл в формате json 
-- `assets/` — скриншот результата работы с кодом 
-
-- `annotation_cuboids' — the code in the file .py - insert Google Colaboratory into your laptop
+- `annotation_cuboids' — the code in the file .py - insert into Google Colaboratory 
 - `2013-01-29_14_46_16.json` is a file in the json format. 
 - `assets/` — screenshot of the result of working with the code
