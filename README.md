@@ -1,6 +1,6 @@
 # Annotation_Cuboids_without_CVAT
-Разметка кубоидов (псевдо-3D) без использования фреймворка CVAT 
-<br>(Cuboid Annotation (pseudo-3D) without CVAT)</br>
+Разметка кубоидов (псевдо-3D) без использования фреймворка CVAT<br>
+<span style="font-weight: normal; font-style: italic;">(Cuboid Annotation (pseudo-3D) without CVAT)</br>
 
 # !Adversarial_attacks!.ipynb
 Состязательные атаки метода FGSM на признаковую составляющую неразмеченного датасета изображений. Достаточно возмущения градиента, равного ε = 0,01, чтобы точность классификации упала почти вдвое против незараженного датасета.
