@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 27,
+      "properties": {
+        "id": 27
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              386,
+              276
+            ],
+            [
+              419,
+              274
+            ],
+            [
+              406,
+              305
+            ],
+            [
+              374,
+              305
+            ],
+            [
+              386,
+              276
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

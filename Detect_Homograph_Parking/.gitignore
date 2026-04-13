@@ -1,0 +1,16 @@
+# Виртуальное окружение
+venv/
+.venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Выводы скриптов
+Test_Results/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
