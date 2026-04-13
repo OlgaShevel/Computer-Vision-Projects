@@ -3,8 +3,8 @@
 <br><br>(Cuboid Annotation (pseudo-3D) without CVAT)</br>
 
 ### Detect_Homograph_Parking
-Определение статуса парковочного машиноместа по камерам видеонаблюдения (занято - свободно)
-<br><br>(This project detects parking space occupancy using camera feeds and computer vision techniques)</br>
+Определение статуса парковочного машиноместа по камерам видеонаблюдения (занято - свободно).
+<br><br>(This project detects parking space occupancy using camera feeds and computer vision techniques).</br>
 
 ### !Adversarial_attacks!.ipynb
 Состязательные атаки метода FGSM на признаковую составляющую неразмеченного датасета изображений. Достаточно возмущения градиента, равного ε = 0,01, чтобы точность классификации упала почти вдвое против незараженного датасета.
