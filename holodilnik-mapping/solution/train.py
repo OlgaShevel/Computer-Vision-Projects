@@ -46,7 +46,7 @@ for cam in ["top", "bottom"]:
     print(f"Сохранено {cam}_ref.npz: {len(src_arr)} пар")
 
 # Функция predict 
-def predict(x, y, source, K=5):
+def predict(x, y, source, K=3):
     src_pts = np.array(ref_src[source], dtype=np.float32)
     dst_pts = np.array(ref_dst[source], dtype=np.float32)
     if len(src_pts) == 0: return float(x), float(y)
