@@ -75,7 +75,7 @@ JSON-файл (result_....json), содержит статус занятост�
 <img width="820" height="1494" alt="finish_result" src="https://github.com/user-attachments/assets/252c7745-c544-4d63-8a2e-b95a4a9b6068" />
 
 
-5. Веб-интефейс создан с помощью фреймворка Gradio (Parking_demo_web/app.py).
+<br>5. Веб-интефейс создан с помощью фреймворка Gradio (Parking_demo_web/app.py).
 
 ФОТО:
 ![Gradio1](https://github.com/user-attachments/assets/8f6572fb-5397-4a14-bbb6-19cbc91602b4)
